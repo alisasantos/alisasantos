@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Olá, eu sou a Alisa Santos 🌸</h1>
 
 <p align="center">
-  💖 Desenvolvedora <b>.NET / ASP.NET</b> Plena <br>
+  💖 Desenvolvedora <b>.NET / ASP.NET</b> Junior <br>
   ✨ Transformando ideias em soluções elegantes com código
 </p>
 
